@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. use *set args arglist* or *run arglist*
+2. use *b function* or *break line* ```break main.c:10```
+3. press *n* to step over and press *s* to step in
+4. press *s*
+5. press *c*
+6. use *p variable*
+7. use *display variable*
+8. use *info local*
+9. press *q*
